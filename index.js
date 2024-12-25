@@ -1,0 +1,1 @@
+const favCountry = ['Norway', 'Bangladesh', 'China', 'Japan'];
